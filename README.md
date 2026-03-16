@@ -2,8 +2,7 @@
 
 Build and launch a powerful digital asset trading platform with the **Cryptocurrency Exchange Script by Troniex Technologies**. This white-label exchange solution helps entrepreneurs and businesses start their own crypto trading platform with advanced features, strong security, and high scalability.
 
-👉 Learn more:  
-https://www.troniextechnologies.com/cryptocurrency-exchange-script
+👉 Learn more: https://www.troniextechnologies.com/cryptocurrency-exchange-script
 
 ---
 
